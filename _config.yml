@@ -1,11 +1,4 @@
 # Configurations
-title:            The ROVER Dataset
-longtitle:        The ROVER Dataset
-author:           Fabian Schmidt
-email:            fabian.schmidt@hs-esslingen.de
-description: >
-  The ROVER Visual SLAM Dataset.
-
 version:          1.0
 gitbook_version:  3.2.3
 
