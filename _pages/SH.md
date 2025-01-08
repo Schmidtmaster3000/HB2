@@ -3,4 +3,4 @@ category: Jekyll
 permalink: /pages/SH/
 ---
 
-![Robotic Recording Overview]({{ site.baseurl }}/assets/ms.png){:style="max-width: 100%; height: auto;"}
+![Robotic Recording Overview]({{ site.baseurl }}/assets/SS.jpeg){:style="max-width: 100%; height: auto;"}
